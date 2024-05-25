@@ -2,6 +2,8 @@
 
 Welcome to the Blog Generation project! This repository showcases an innovative tool for generating custom blogs based on user-defined topics, word counts, and audience types (beginner, intermediate, or advanced). The project leverages advanced technologies like Llama 2, LangChain, Hugging Face, and Streamlit to create a seamless blog generation experience.
 
+![](https://github.com/2003HARSH/Blog-Generation-using-Llama2/blob/main/docs/static/blog_gen.jpg)
+
 ## Project Overview
 The Blog Generation project is designed to provide an automated solution for creating engaging blog content. It uses Llama 2, a large language model (LLM), to generate high-quality textual content. The LangChain framework is employed to manage and link various AI components, while Hugging Face provides the pre-trained LLM capabilities. Streamlit is used for the frontend, enabling an interactive and user-friendly interface for users to input their blog parameters.
 
